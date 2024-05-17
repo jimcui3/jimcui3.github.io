@@ -15,7 +15,7 @@ My work focuses on statistical and machine learning analysis of biological/chemi
 
 I received my Master's degree in the [Master of Science in Artificial Intelligence (MSAI) program](https://www.khoury.northeastern.edu/programs/artificial-intelligence-ms/) at [Northeastern University](https://www.northeastern.edu/) in 2023. Previously, I received my undergraduate degree in 2017 from [School of Mathematical Sciences](http://en.math.nankai.edu.cn/main.htm) at [Nankai University](https://en.nankai.edu.cn/) with a B.S. in Statistics. At Nankai University, I was supervised by [Professor Sheng Zhang](http://en.math.nankai.edu.cn/2015/1112/c4059a32165/page.htm) to write my thesis: An Exploration of Transformer-Based Object Detection Technology.
 
-**Check out the publications page! I recently published my first paper (though not as first author)!**
+**Feel free to check out the publications page for my publications :)**
 
 * This webpage is still under construction! I'll add more things to it in the future.
 
