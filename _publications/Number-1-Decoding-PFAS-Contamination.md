@@ -1,5 +1,5 @@
 ---
-title: "1. Decoding PFAS Contamination via Raman Spectroscopy: A Combined DFT and Machine Learning Investigation"
+title: "Decoding PFAS Contamination via Raman Spectroscopy: A Combined DFT and Machine Learning Investigation"
 collection: publications
 permalink: /publication/Number-1-Decoding-PFAS-Contamination
 excerpt: ''
