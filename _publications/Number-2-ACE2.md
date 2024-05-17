@@ -1,5 +1,5 @@
 ---
-title: "2. Rapid Detection of SARS-CoV-2 Variants Using ACE2-Based SERS Sensor Enhanced by CoVari Deep Learning Algorithms"
+title: "Rapid Detection of SARS-CoV-2 Variants Using ACE2-Based SERS Sensor Enhanced by CoVari Deep Learning Algorithms"
 collection: publications
 permalink: /publication/Number-2-ACE2
 excerpt: ''
