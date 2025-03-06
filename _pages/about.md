@@ -13,13 +13,15 @@ My work focuses on statistical and machine learning analysis of biological/chemi
 
 I received my Master's degree in the [Master of Science in Artificial Intelligence (MSAI) program](https://www.khoury.northeastern.edu/programs/artificial-intelligence-ms/) at [Northeastern University](https://www.northeastern.edu/) in 2023. Previously, I received my undergraduate degree in 2021 from the [School of Mathematical Sciences](http://en.math.nankai.edu.cn/main.htm) at [Nankai University](https://en.nankai.edu.cn/) with a B.S. in Statistics. At Nankai University, I was supervised by [Dr. Sheng Zhang](http://en.math.nankai.edu.cn/2015/1112/c4059a32165/page.htm) to write my thesis: An Exploration of Transformer-Based Object Detection Technology.
 
-**Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org)! Feel free to check out.**
+==============================
+# News
+**1. Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org). Feel free to check out!**
 
-**Feel free to check out the [publications page](https://jimcui3.github.io/publications/) for my publications :)**
+**2. Feel free to check out the [publications page](https://jimcui3.github.io/publications/) or my [Google Scholar page](https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en) for my publications :)**
 
 <!-- **$\leftarrow$ Please feel free to connect with me for any collaboration opportunities or discussions related to this fascinating field!** --> 
 
 <!-- * This webpage is still under construction! I'll add more things to it in the future. --> 
 
 <!-- # Still under construction... --> 
-==============================
+
