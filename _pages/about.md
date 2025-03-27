@@ -15,9 +15,9 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
-**1. Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org). Feel free to check out!**
+**1. Nov 11, 2024 - Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org). Feel free to check out!**
 
-**2. Feel free to check out the [publications page](https://jimcui3.github.io/publications/) or my [Google Scholar page](https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en) for my publications :)**
+**2. Dec 15, 2023 - Feel free to check out the [publications page](https://jimcui3.github.io/publications/) or my [Google Scholar page](https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en) for my publications :)**
 
 <!-- **$\leftarrow$ Please feel free to connect with me for any collaboration opportunities or discussions related to this fascinating field!** --> 
 
