@@ -17,7 +17,7 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 # News
 **1. Nov 11, 2024 - Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org). Feel free to check out!**
 
-**2. Feb 09, 2024 - I attended the College of Public Health Research Day and presented two posters at the UGA Classic Center. Please see my poster on [PFAS detection](https://jimcui3.github.io/files/02092024%20-%20PFAS_Poster_36x56.pdf) and [virus mixture detection](https://jimcui3.github.io/files/02092024%20-%20Virus_Mixture_Poster_36x56.pdf).**
+**2. Feb 09, 2024 - I attended the College of Public Health Research Day and presented two posters at the UGA Classic Center. Please see my posters on [PFAS detection](https://jimcui3.github.io/files/02092024%20-%20PFAS_Poster_36x56.pdf) and [virus mixture detection](https://jimcui3.github.io/files/02092024%20-%20Virus_Mixture_Poster_36x56.pdf). Both works have been officially published in 2024.**
 
 **3. Dec 15, 2023 - Feel free to check out the [publications page](https://jimcui3.github.io/publications/) or my [Google Scholar page](https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en) for my publications :)**
 
