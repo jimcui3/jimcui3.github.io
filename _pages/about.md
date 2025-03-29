@@ -15,25 +15,26 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
-**1. Mar 19, 2025 - Our conference paper "Label-free detection of respiratory virus co-infections: integrating surface-enhanced Raman scattering with deep learning" was published in the SPIE proceedings. Presented by Dr. Yiping Zhao.**
 
-**2. Jan 28, 2025 - Our paper "Multiplex Detection and Quantification of Virus Co-Infections Using Label-free Surface-Enhanced Raman Spectroscopy and Deep Learning Algorithms" is now published! I co-led the machine learning analysis and served as second author.**
+1. Mar 19, 2025 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13298/1329802/Label-free-detection-of-respiratory-virus-co-infections--integrating/10.1117/12.3046246.full">Label-free detection of respiratory virus co-infections: integrating surface-enhanced Raman scattering with deep learning</a>" was published in the SPIE proceedings. Presented by Dr. Yiping Zhao.
 
-**3. Dec 4, 2024 - A collaborative publication with Dr. Ping Ma's group titled 'Functional regression for SERS spectrum transformation across diverse instruments' has been published!**
+1. <strong>Jan 28, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acssensors.4c03209">Multiplex Detection and Quantification of Virus Co-Infections Using Label-free Surface-Enhanced Raman Spectroscopy and Deep Learning Algorithms</a>" is now published! I co-led the machine learning analysis and served as second author.</strong>
 
-**4. Nov 11, 2024 - Our lab has published an open-source online spectral processing tool - [SpectraGuru (spectraguru.org)](https://spectraguru.org). Feel free to check out!**
+1. Dec 4, 2024 - A collaborative publication with Dr. Ping Ma's group titled "<a href="https://pubs.rsc.org/en/content/articlehtml/2025/an/d4an01177e">Functional regression for SERS spectrum transformation across diverse instruments</a>" has been published!
 
-**5. Jul 2, 2024 - Our paper "Ultra-sensitive detection of PFASs using surface enhanced Raman scattering and machine learning: a promising approach for environmental analysis" is now published! I co-led the machine learning analysis and served as second author.**
+1. <strong>Nov 11, 2024 - Our lab has published an open-source online spectral processing tool - <a href="https://spectraguru.org">SpectraGuru (spectraguru.org)</a>. Feel free to check out!</strong>
 
-**6. Jun 20, 2024 - Our conference paper "Detection of SARS-CoV-2 in patient specimens by surface enhanced Raman spectroscopy and deep learning" was published in the SPIE proceedings. Presented by Dr. Yiping Zhao.**
+1. <strong>Jul 2, 2024 - Our paper "<a href="https://pubs.rsc.org/en/content/articlehtml/2024/sd/d4sd00052h">Ultra-sensitive detection of PFASs using surface enhanced Raman scattering and machine learning: a promising approach for environmental analysis</a>" is now published! I co-led the machine learning analysis and served as second author.</strong>
 
-**7. Jun 6, 2024 - Our paper "Rapid Detection of SARS-CoV-2 Variants Using an Angiotensin-Converting Enzyme 2-Based Surface-Enhanced Raman Spectroscopy Sensor Enhanced by CoVari Deep Learning Algorithms" is now published! I co-led the machine learning analysis and served as second author.**
+1. Jun 20, 2024 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12999/129991I/Detection-of-SARS-CoV-2-in-patient-specimens-by-surface/10.1117/12.3021632.full">Detection of SARS-CoV-2 in patient specimens by surface enhanced Raman spectroscopy and deep learning</a>" was published in the SPIE proceedings. Presented by Dr. Yiping Zhao.
 
-**8. Feb 09, 2024 - I attended the College of Public Health Research Day and presented two posters at the UGA Classic Center. Please see my posters on [PFAS detection](https://jimcui3.github.io/files/02092024%20-%20PFAS_Poster_36x56.pdf) and [virus mixture detection](https://jimcui3.github.io/files/02092024%20-%20Virus_Mixture_Poster_36x56.pdf). Both works have been officially published in 2024.**
+1. <strong>Jun 6, 2024 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acssensors.4c00488">Rapid Detection of SARS-CoV-2 Variants Using an Angiotensin-Converting Enzyme 2-Based Surface-Enhanced Raman Spectroscopy Sensor Enhanced by CoVari Deep Learning Algorithms</a>" is now published! I co-led the machine learning analysis and served as second author.</strong>
 
-**9. Dec 15, 2023 - A collaborative publication with Sichuan University titled 'Decoding PFAS contamination via Raman spectroscopy: A combined DFT and machine learning investigation' has been published!**
+1. <strong>Feb 09, 2024 - I attended the College of Public Health Research Day and presented two posters at the UGA Classic Center. Please see my posters on <a href="https://jimcui3.github.io/files/02092024%20-%20PFAS_Poster_36x56.pdf">PFAS detection</a> and <a href="https://jimcui3.github.io/files/02092024%20-%20Virus_Mixture_Poster_36x56.pdf">virus mixture detection</a>.</strong>
 
-**10. Dec 15, 2023 - I created my [publications page](https://jimcui3.github.io/publications/) and [Google Scholar page](https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en) for my publications :)**
+1. Dec 15, 2023 - A collaborative publication with Sichuan University titled "<a href="https://www.sciencedirect.com/science/article/pii/S030438942302544X">Decoding PFAS contamination via Raman spectroscopy: A combined DFT and machine learning investigation</a>" has been published!
+
+1. <strong>Dec 15, 2023 - I created my <a href="https://jimcui3.github.io/publications/">publications page</a> and <a href="https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en">Google Scholar page</a> for my publications :)</strong>
 
 <!-- **$\leftarrow$ Please feel free to connect with me for any collaboration opportunities or discussions related to this fascinating field!** --> 
 
