@@ -16,6 +16,8 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 ==============================
 # News
 
+1. May 18, 2025 - A collaborative publication with Dr. Ping Ma's group titled "<a href="https://pubs.acs.org/doi/10.1021/acssensors.4c03397">Extracting True Virus SERS Spectra and Augmenting Data for Improved Virus Classification and Quantification</a>" has been published!
+
 1. Mar 19, 2025 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13298/1329802/Label-free-detection-of-respiratory-virus-co-infections--integrating/10.1117/12.3046246.full">Label-free detection of respiratory virus co-infections: integrating surface-enhanced Raman scattering with deep learning</a>" was published in the SPIE proceedings. Presented by Dr. Yiping Zhao.
 
 1. <strong>Jan 28, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acssensors.4c03209">Multiplex Detection and Quantification of Virus Co-Infections Using Label-free Surface-Enhanced Raman Spectroscopy and Deep Learning Algorithms</a>" is now published! I co-led the machine learning analysis and served as second author.</strong>
