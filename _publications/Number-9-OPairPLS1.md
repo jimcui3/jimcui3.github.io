@@ -1,5 +1,5 @@
 ---
-title: "Extracting True Virus SERS Spectra and Augmenting Data for Improved Virus Classification and Quantification"
+title: "Beyond Traditional airPLS: Improved Baseline Removal in SERS with Parameter-Focused Optimization and Prediction"
 collection: publications
 permalink: /publication/Number-9-OPairPLS1
 excerpt: ''
