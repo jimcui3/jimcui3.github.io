@@ -6,6 +6,6 @@ excerpt: ''
 date: 2025-07-26
 venue: 'Analytical Chemistry'
 paperurl: 'https://doi.org/10.1021/acs.analchem.5c01253'
-citation: '<b>Jiaheng Cui</b>, Xianyan Chen, and Yiping Zhao* "Beyond Traditional airPLS: Improved Baseline Removal in SERS with Parameter-Focused Optimization and Prediction", Analytical Chemistry Article ASAP'
+citation: '<b>Jiaheng Cui</b>, Xianyan Chen, and Yiping Zhao* "Beyond Traditional airPLS: Improved Baseline Removal in SERS with Parameter-Focused Optimization and Prediction", Analytical Chemistry 2025, 97, 30, 16211–16218.'
 ---
 
