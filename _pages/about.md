@@ -15,6 +15,8 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
+1. <strong>Aug 24, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acs.jpca.5c03375">Quantitative Analysis of Virus Adsorption and Co-adsorption Behavior Using BET Modeling and SERS Spectroscopy</a>" is now published! This is the second scientific paper I have published as the first author!</strong>
+
 1. <strong>Jul 26, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c01253">Beyond Traditional airPLS: Improved Baseline Removal in SERS with Parameter-Focused Optimization and Prediction</a>" is now published! This is the first scientific paper I have published as the first author!</strong>
    
 1. May 18, 2025 - A collaborative publication with Dr. Ping Ma's group titled "<a href="https://pubs.acs.org/doi/10.1021/acssensors.4c03397">Extracting True Virus SERS Spectra and Augmenting Data for Improved Virus Classification and Quantification</a>" has been published!
