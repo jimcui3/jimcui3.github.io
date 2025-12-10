@@ -17,6 +17,8 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 # News
 1. <strong>Oct 9, 2025 – I attended the SciX 2025 Conference and delivered an <u>invited talk</u> titled "<em>Automated Baseline Optimization in Surface Enhanced Raman Spectroscopy: Artificial Intelligence–Driven Parameter Tuning for Improved Chemical Detection</em>," invited by Dr. Jorn Yu (Sam Houston State University).</strong>
 
+1. Sep 10, 2025 - I attended the 5th International Online Conference on Nanomaterials (IOCN 2025) and presented one poster. Please see my posters on <a href="https://jimcui3.github.io/files/09102025%20-%20IOCN%202025%20Poster%20-%20Jiaheng%20Cui.pdf">Automated Baseline Optimization.
+
 1. <strong>Aug 24, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acs.jpca.5c03375">Quantitative Analysis of Virus Adsorption and Co-adsorption Behavior Using BET Modeling and SERS Spectroscopy</a>" is now published! This is the second scientific paper I have published as the first author!</strong>
 
 1. <strong>Jul 26, 2025 - Our paper "<a href="https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c01253">Beyond Traditional airPLS: Improved Baseline Removal in SERS with Parameter-Focused Optimization and Prediction</a>" is now published! This is the first scientific paper I have published as the first author!</strong>
