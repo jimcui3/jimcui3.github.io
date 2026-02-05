@@ -15,6 +15,8 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
+1. <strong>Feb 2, 2026 - Our paper "<a href="https://pubs.acs.org/doi/10.1021/acsomega.6c00157">Improving Protein Quantification with SERS Superspectra and Machine Learning</a>" is now published! This is the third scientific paper I have published as the first author!</strong>
+
 1. <strong>Oct 9, 2025 – I attended the SciX 2025 Conference and delivered an <u>invited talk</u> titled "<em>Automated Baseline Optimization in Surface Enhanced Raman Spectroscopy: Artificial Intelligence–Driven Parameter Tuning for Improved Chemical Detection</em>," invited by Dr. Jorn Yu (Sam Houston State University).</strong>
 
 1. Sep 10, 2025 - I attended the 5th International Online Conference on Nanomaterials (IOCN 2025) and presented one poster. Please see my posters on <a href="https://jimcui3.github.io/files/09102025%20-%20IOCN%202025%20Poster%20-%20Jiaheng%20Cui.pdf">Automated Baseline Optimization.
