@@ -15,6 +15,12 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
+1. <strong>Mar 24, 2026 – I attended the ACS Spring 2026 Conference and delivered an oral presentation titled "<em>Machine Learning-Enhanced airPLS Parameter Optimization for Noise-robust SERS Baseline Correction</em>". I am also honored to be the presider of the session "Advances in Spectroscopy: Advances in Spectroscopic Detection" under ANYL: Division of Analytical Chemistry. </strong>
+
+1. Mar 5, 2026 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13870/1387005/AI-assisted-extraction-and-quantification-of-viral-RNA-SERS-spectra/10.1117/12.3086055.short">AI-assisted extraction and quantification of viral RNA SERS spectra from DNA–RNA hybridization measurement</a>" was published in the SPIE proceedings.
+
+1. Mar 5, 2026 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13846/1384608/SpectraGuru--a-community-guided-path-toward-scalable-Raman-and/10.1117/12.3086068.short">SpectraGuru: a community-guided path toward scalable Raman and SERS analysis</a>" was published in the SPIE proceedings. Presented by Mr. Fengbo Ma.
+
 1. <strong>Feb 2, 2026 - Our paper "<a href="https://pubs.acs.org/doi/10.1021/acsomega.6c00157">Improving Protein Quantification with SERS Superspectra and Machine Learning</a>" is now published! This is the third scientific paper I have published as the first author!</strong>
 
 1. <strong>Oct 9, 2025 – I attended the SciX 2025 Conference and delivered an <u>invited talk</u> titled "<em>Automated Baseline Optimization in Surface Enhanced Raman Spectroscopy: Artificial Intelligence–Driven Parameter Tuning for Improved Chemical Detection</em>," invited by Dr. Jorn Yu (Sam Houston State University).</strong>
