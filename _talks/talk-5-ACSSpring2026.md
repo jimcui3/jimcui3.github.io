@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning-Enhanced airPLS Parameter Optimization for Noise-robust SERS Baseline Correction"
 collection: talks
-type: "Oral Presentation"
+type: "Oral Presentation, Session Presider"
 permalink: /talks/talk-5-ACSSpring2026
 venue: "Advances in Spectroscopy: Advances in Spectroscopic Detection, ANYL: Division of Analytical Chemistry, ACS Spring 2026"
 date: 2026-03-25
