@@ -15,6 +15,8 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
+1. Apr 6, 2026 - Our paper "<a href="https://pubs.acs.org/doi/10.1021/acs.analchem.5c07799">Comprehensive Open-Source Ecosystem for Raman and SERS Spectroscopy: Introducing SpectraGuru</a>" is now published! I contributed to the algorithms listed in the platform and served as second author.
+
 1. <strong>Mar 24, 2026 – I attended the ACS Spring 2026 Conference and delivered an oral presentation titled "<em>Machine Learning-Enhanced airPLS Parameter Optimization for Noise-robust SERS Baseline Correction</em>". I am also honored to be the presider of the session "Advances in Spectroscopy: Advances in Spectroscopic Detection" under ANYL: Division of Analytical Chemistry. </strong>
 
 1. Mar 5, 2026 - Our conference paper "<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13870/1387005/AI-assisted-extraction-and-quantification-of-viral-RNA-SERS-spectra/10.1117/12.3086055.short">AI-assisted extraction and quantification of viral RNA SERS spectra from DNA–RNA hybridization measurement</a>" was published in the SPIE proceedings.
@@ -51,7 +53,7 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 1. Dec 15, 2023 - A collaborative publication with Sichuan University titled "<a href="https://www.sciencedirect.com/science/article/pii/S030438942302544X">Decoding PFAS contamination via Raman spectroscopy: A combined DFT and machine learning investigation</a>" has been published!
 
-1. <strong>Dec 15, 2023 - I created my <a href="https://jimcui3.github.io/publications/">publications page</a> and <a href="https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en">Google Scholar page</a> for my publications :)</strong>
+1. Dec 15, 2023 - I created my <a href="https://jimcui3.github.io/publications/">publications page</a> and <a href="https://scholar.google.com/citations?user=zXVzYK8AAAAJ&hl=en">Google Scholar page</a> for my publications :)
 
 <!-- **$\leftarrow$ Please feel free to connect with me for any collaboration opportunities or discussions related to this fascinating field!** --> 
 
