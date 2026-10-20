@@ -15,7 +15,7 @@ I received my Master's degree in the [Master of Science in Artificial Intelligen
 
 ==============================
 # News
-1. <strong>Aug 21, 2026 - Our group hosted the [Spectroscopy Data and AI Workshop: Toward Integrated Research Infrastructure](https://www.zhao-nano-lab.com/workshop) and presented two posters at the University of Georgia Center for Continuing Education & Hotel. Please see my posters on <a href="https://jimcui3.github.io/files/BSA_Superspectra_Poster_36x56.pdf">PFAS detection</a> and <a href="https://jimcui3.github.io/files/Chengshuo_Poster_36x48.pdf">virus mixture detection</a>.</strong>
+1. <strong>Aug 21, 2026 - Our group hosted the [Spectroscopy Data and AI Workshop: Toward Integrated Research Infrastructure](https://www.zhao-nano-lab.com/workshop) and presented two posters at the University of Georgia Center for Continuing Education & Hotel. Please see my posters on <a href="https://jimcui3.github.io/files/BSA_Superspectra_Poster_36x56.pdf">protein quantification</a> and <a href="https://jimcui3.github.io/files/Chengshuo_Poster_36x48.pdf">multi-component demixing</a>.</strong>
 
 1. Apr 6, 2026 - Our paper "<a href="https://pubs.acs.org/doi/10.1021/acs.analchem.5c07799">Comprehensive Open-Source Ecosystem for Raman and SERS Spectroscopy: Introducing SpectraGuru</a>" is now published! I contributed to the algorithms listed in the platform and served as second author.
 
